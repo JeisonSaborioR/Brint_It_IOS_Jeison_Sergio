@@ -1,0 +1,126 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "15D-Bq-r6a"; */
+"15D-Bq-r6a.text" = "Label";
+
+/* Class = "UILabel"; text = "Active notifications:"; ObjectID = "2vN-iH-McI"; */
+"2vN-iH-McI.text" = "Active notifications:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6kJ-nw-ZQf"; */
+"6kJ-nw-ZQf.text" = "Label";
+
+/* Class = "UILabel"; text = "Exit"; ObjectID = "8Mj-eJ-9Yt"; */
+"8Mj-eJ-9Yt.text" = "Exit";
+
+/* Class = "UITabBarItem"; title = "Products"; ObjectID = "9C7-RG-9EQ"; */
+"9C7-RG-9EQ.title" = "Products";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "AUh-qA-bsf"; */
+"AUh-qA-bsf.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Quant."; ObjectID = "AXy-r3-kwB"; */
+"AXy-r3-kwB.text" = "Quant.";
+
+/* Class = "UILabel"; text = "Total:"; ObjectID = "BaT-Yk-tYh"; */
+"BaT-Yk-tYh.text" = "Total:";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "Bm5-ez-iK2"; */
+"Bm5-ez-iK2.title" = "Settings";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DJ9-92-fqk"; */
+"DJ9-92-fqk.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "EKe-KX-C31"; */
+"EKe-KX-C31.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "EOs-8v-fSf"; */
+"EOs-8v-fSf.text" = "Description";
+
+/* Class = "UILabel"; text = "One uppercase letter, 8-12 characters and a number."; ObjectID = "G01-dg-czO"; */
+"G01-dg-czO.text" = "One uppercase letter, 8-12 characters and a number.";
+
+/* Class = "UINavigationItem"; title = "Shopping List"; ObjectID = "Hjl-df-WMK"; */
+"Hjl-df-WMK.title" = "Shopping List";
+
+/* Class = "UITabBarItem"; title = "Chat"; ObjectID = "NAp-Jh-CpQ"; */
+"NAp-Jh-CpQ.title" = "Chat";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "QAS-t2-Ka6"; */
+"QAS-t2-Ka6.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "QWA-24-v19"; */
+"QWA-24-v19.normalTitle" = "Log in";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Tgh-4o-XNN"; */
+"Tgh-4o-XNN.placeholder" = "Name";
+
+/* Class = "UITabBarItem"; title = "Shopping List"; ObjectID = "Yam-qW-Pol"; */
+"Yam-qW-Pol.title" = "Shopping List";
+
+/* Class = "UILabel"; text = "Chat"; ObjectID = "aXV-YM-8ZW"; */
+"aXV-YM-8ZW.text" = "Chat";
+
+/* Class = "UILabel"; text = "In list:"; ObjectID = "cp3-aD-ayY"; */
+"cp3-aD-ayY.text" = "In list:";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "d0n-RF-NSs"; */
+"d0n-RF-NSs.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "dY9-jf-Yd4"; */
+"dY9-jf-Yd4.placeholder" = "Name";
+
+/* Class = "UITableViewSection"; headerTitle = "Name shopping list "; ObjectID = "gBj-KP-VgQ"; */
+"gBj-KP-VgQ.headerTitle" = "Name shopping list ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "h2A-DW-LGv"; */
+"h2A-DW-LGv.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Not registered user yet? Sign up"; ObjectID = "hRR-uY-2oh"; */
+"hRR-uY-2oh.normalTitle" = "Not registered user yet? Sign up";
+
+/* Class = "UILabel"; text = "In cart:"; ObjectID = "i3o-yz-uyF"; */
+"i3o-yz-uyF.text" = "In cart:";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "l9y-nE-FQv"; */
+"l9y-nE-FQv.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "One uppercase letter, 8-12 characters and a number."; ObjectID = "lZB-sZ-syT"; */
+"lZB-sZ-syT.text" = "One uppercase letter, 8-12 characters and a number.";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "mZh-61-C75"; */
+"mZh-61-C75.text" = "Price";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "o4c-9T-ruD"; */
+"o4c-9T-ruD.text" = "Notifications";
+
+/* Class = "UILabel"; text = "Or"; ObjectID = "oUQ-Qu-oeU"; */
+"oUQ-Qu-oeU.text" = "Or";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "pD8-jc-XBa"; */
+"pD8-jc-XBa.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rBa-4x-e5h"; */
+"rBa-4x-e5h.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "reg-41-dgM"; */
+"reg-41-dgM.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Register"; ObjectID = "sAp-QW-NvI"; */
+"sAp-QW-NvI.title" = "Register";
+
+/* Class = "UITableViewSection"; headerTitle = "Notifications"; ObjectID = "uLc-e7-Bqb"; */
+"uLc-e7-Bqb.headerTitle" = "Notifications";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "vPU-Yo-mbM"; */
+"vPU-Yo-mbM.text" = "Settings";
+
+/* Class = "UILabel"; text = "Products"; ObjectID = "vg1-Xq-Eiy"; */
+"vg1-Xq-Eiy.text" = "Products";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "wUN-cL-6H0"; */
+"wUN-cL-6H0.text" = "About Us";
+
+/* Class = "UITextField"; placeholder = "Date"; ObjectID = "z2p-Dx-5D8"; */
+"z2p-Dx-5D8.placeholder" = "Date";
+
+/* Class = "UILabel"; text = "Chat"; ObjectID = "z6b-ho-p5f"; */
+"z6b-ho-p5f.text" = "Chat";

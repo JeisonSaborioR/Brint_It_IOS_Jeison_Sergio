@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bring It!/AppDelegate.swift"
+            timestampString = "531635203.521122"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bring It!/AppDelegate.swift"
+            timestampString = "531635203.521202"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewControllers/LoginViewController.swift"
+            timestampString = "533097864.372896"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewControllers/LoginViewController.swift"
+            timestampString = "533097864.37297"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewControllers/LoginViewController.swift"
+            timestampString = "533097864.373033"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewControllers/LoginViewController.swift"
+            timestampString = "533097864.373092"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewControllers/RegisterUserViewController.swift"
+            timestampString = "532478886.584437"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "postSaveUser(passWord:email:name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewControllers/SettingsTableViewController.swift"
+            timestampString = "532549520.598456"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.__deallocating_deinit"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.583361"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; Bring_It_.SettingsTableViewController"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.58601"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.init(style: __C.UITableViewStyle) -&gt; Bring_It_.SettingsTableViewController"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.588733"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Bring_It_.SettingsTableViewController"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.591534"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Bring_It_.SettingsTableViewController"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.59416"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Bring_It_.SettingsTableViewController&gt;"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.596504"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Bring_It_.SettingsTableViewController&gt;"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.59903"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewControllers/SettingsTableViewController.swift"
+            timestampString = "532549520.598537"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.__deallocating_deinit"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.610918"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; Bring_It_.SettingsTableViewController"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.613745"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.init(style: __C.UITableViewStyle) -&gt; Bring_It_.SettingsTableViewController"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.616015"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Bring_It_.SettingsTableViewController"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.618354"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Bring_It_.SettingsTableViewController"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.620726"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Bring_It_.SettingsTableViewController&gt;"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.623036"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Bring_It_.SettingsTableViewController&gt;"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "531476644.62548"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bring It!/AppDelegate.swift"
+            timestampString = "532062486.894879"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewControllers/RegisterProductTableViewController.swift"
+            timestampString = "533181168.424391"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "textField(_:shouldChangeCharactersIn:replacementString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewControllers/SettingsTableViewController.swift"
+            timestampString = "532549520.598686"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "SettingsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.emailUserCurrentLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20JS_SJ/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "532417697.353383"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.emailUserCurrentLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20JS_SJ/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "532417697.356001"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.init(style: __C.UITableViewStyle) -&gt; Bring_It_.SettingsTableViewController"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20JS_SJ/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "532417697.358405"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Bring_It_.SettingsTableViewController"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20JS_SJ/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "532417697.360945"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bring_It_.SettingsTableViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Bring_It_.SettingsTableViewController&gt;"
+                  moduleName = "Bring It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/Archivos%20de%20Escritorio/Proyecto%20JS_SJ/Proyecto%20de%20software%20%202/Bring%20It!/ViewControllers/SettingsTableViewController.swift"
+                  timestampString = "532417697.363421"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "165">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
